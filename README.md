@@ -1,8 +1,8 @@
 # Pandas-Data-Science-Project
-# 🐼 Pandas Tutorial - Keith Galli (YouTube)
+# Pandas Tutorial - Keith Galli (YouTube)
 
 Bu proje, [Keith Galli](https://www.youtube.com/@KeithGalli)'nin YouTube'daki **Pandas Tutorial** videosunu takip ederek yapılan veri analizi alıştırmalarını içermektedir.  
-📺 Video bağlantısı: [Pandas Tutorial](https://www.youtube.com/watch?v=vmEHCJofslg)
+Video bağlantısı: [Pandas Tutorial](https://www.youtube.com/watch?v=vmEHCJofslg)
 
 ## İçerik
 
