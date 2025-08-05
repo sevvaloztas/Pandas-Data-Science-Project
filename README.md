@@ -1,32 +1,32 @@
 # Pandas-Data-Science-Project
 # Pandas Tutorial - Keith Galli (YouTube)
 
-Bu proje, [Keith Galli](https://www.youtube.com/@KeithGalli)'nin YouTube'daki **Pandas Tutorial** videosunu takip ederek yapılan veri analizi alıştırmalarını içermektedir.  
-Video bağlantısı: [Pandas Tutorial](https://www.youtube.com/watch?v=vmEHCJofslg)
+This repository contains my notes and practice from the [Pandas Tutorial](https://www.youtube.com/watch?v=vmEHCJofslg) by **Keith Galli** on YouTube.
 
-## İçerik
+## Overview
 
-Bu çalışmada pandas kütüphanesi kullanılarak şu konular üzerinde durulmuştur:
+In this tutorial, I followed along and practiced various topics related to data analysis using the `pandas` library in Python.
 
-- DataFrame ve Series oluşturma
-- CSV / Excel dosyaları okuma ve yazma
-- Veriyi filtreleme (`loc`, `iloc`, koşullu filtreleme)
-- Sıralama, gruplama, toplama işlemleri
-- Merge, join ve concatenate işlemleri
-- Apply, lambda fonksiyonları
-- Pivot tablolar ve kategorik veriler
-- Zaman serisi verileri ile çalışma
-- Eksik veri işlemleri (missing data)
-- Matplotlib ile veri görselleştirme
+### Topics Covered:
+- Creating DataFrames and Series
+- Reading and writing CSV/Excel files
+- Filtering data with `loc`, `iloc`, and conditional logic
+- Sorting, grouping, and aggregating data
+- Merging, joining, and concatenating datasets
+- Using `apply`, lambda functions
+- Handling missing data
+- Pivot tables and categorical data
+- Working with time series
+- Data visualization with `matplotlib`
 
-## Neler Öğrendim?
+## What I Learned
 
-- pandas ile temel ve ileri seviye veri işleme yetenekleri
-- Python'da veri analizine sistematik yaklaşım
-- Gerçek veri setleri üzerinde pratik yapma alışkanlığı
-- Git & GitHub ile kod paylaşımı ve versiyon kontrolü
+- How to manipulate and analyze data using pandas
+- Structured approach to working with real-world datasets
+- Best practices for writing clean and readable code
+- Using Git and GitHub for version control and sharing work
 
-## 🛠Kullanılan Araçlar
+## Tools & Technologies
 
 - Python 3.x
 - Jupyter Notebook
